@@ -1,3 +1,3 @@
 # VISION
 
-![Test Image 1](img/VisionCards.png)
+![Test Image 1](VisionCards.png)
